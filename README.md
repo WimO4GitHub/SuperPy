@@ -1,5 +1,5 @@
 # SuperPy
-N.a.v. de feedback van reviewer Djeno van de Stadt zijn onderstaande doorgevoerd:
+N.a.v. de feedback van reviewer Djeno van de Stadt zijn onderstaande verbeteringen doorgevoerd:
 
 Nette code
 - overbodige als commentaar aangemerkt print regels weggehaald, evenals de lege regels. De opmerkingen in het Nederlands omgezet naar het Engels.
